@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@import './styles/app.scss';
+@import './styles/navbar.scss';
+@import './styles/sidebar.scss';
+@import './styles/home.scss';
+@import './styles/widgetvente.scss';
+@import './styles/widgetorder.scss';
+@import './styles/widgetproducts.scss';
+@import './styles/statsorder.scss';
+@import './styles/widgetusers.scss';
+@import './styles/widgetStatsvente.scss';
+@import './styles/tableorder.scss';
+@import './styles/addproduct.scss';
+@import './styles/productlist.scss';
+@import './styles/updateProduct.scss';
+@import './styles/orders.scss';
+@import './styles/singleCommande.scss';
+@import './styles/users.scss';
+@import './styles/infouser.scss';
+@import './styles/category.scss';

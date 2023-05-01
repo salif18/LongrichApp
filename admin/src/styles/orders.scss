@@ -1,0 +1,47 @@
+.orders{
+    flex:4;
+    border: 1px solid #c4c4c494;
+    margin:20px
+}
+
+.headers{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    border-bottom: 1px solid green;
+}
+
+.select{
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.option{
+    font-weight:600;
+    font-size: 18px;
+}
+
+.tableaux{
+    margin:20px
+}
+
+.tab{
+    margin-top: 20px;
+}
+
+
+
+.title-tab{
+    border-bottom: 4px solid #555;
+    width: 400px;
+    padding: 10px;
+}
+
+.name-tab{
+    margin: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #c4c4c494;
+}

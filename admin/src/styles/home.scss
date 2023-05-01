@@ -1,0 +1,44 @@
+.home{
+    flex:4;
+    padding: 10px;
+}
+
+.home-container{
+    display: flex;
+    align-items: center;
+}
+
+.items{
+    flex:1;
+    border-radius: 10px;
+    box-shadow: 5px 8px 5px 2px #cccc;
+    background: #cdcdcd30;
+    border: 1px solid #22222231;
+    margin-right: 10px;
+}
+
+.stats-container{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.widgets{
+    margin-top:20px;
+    flex:1;
+    border-radius: 10px;
+    box-shadow: 5px 8px 5px 2px #cccc;
+    background: #cdcdcd30;
+    margin-right: 10px;
+    border: 1px solid #22222231;
+}
+
+.table{
+    margin-top:40px;
+    flex:1;
+    border-radius: 10px;
+    box-shadow: 5px 8px 5px 2px #cccc;
+    background: #cdcdcd30;
+    margin-right: 10px;
+    border: 1px solid #22222231;
+}
